@@ -1,0 +1,29 @@
+.detalhes-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+  
+.detalhes-container h1 {
+    margin-bottom: 20px;
+}
+  
+.detalhes-container img {
+    max-width: 200px;
+    margin-bottom: 10px;
+}
+  
+.detalhes-container p {
+    margin-bottom: 5px;
+}
+
+body {
+    background: linear-gradient(90deg, rgb(199, 239, 248) 0%, rgba(145,229,248,1) 35%, rgb(199, 239, 248) 100%);
+}
+  
+
+
+
+
+  
